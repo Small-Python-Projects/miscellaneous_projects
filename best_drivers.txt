@@ -1,0 +1,598 @@
+ 
+
+1. Gary Woodland:-
+ Score: 184741.5  Avg. dist.: 313.3 Yards  fairways hit: 62.7%
+
+2. Joaquin Niemann:-
+ Score: 183806.03  Avg. dist.: 310.4 Yards  fairways hit: 64.12%
+
+3. Rory McIlroy:-
+ Score: 180175.62  Avg. dist.: 320.5 Yards  fairways hit: 55.08%
+
+4. Tommy Fleetwood:-
+ Score: 179818.52  Avg. dist.: 307.0 Yards  fairways hit: 63.78%
+
+5. Keegan Bradley:-
+ Score: 179488.02  Avg. dist.: 300.9 Yards  fairways hit: 68.17%
+
+6. Trey Mullinax:-
+ Score: 178246.49  Avg. dist.: 318.7 Yards  fairways hit: 54.98%
+
+7. Kyle Stanley:-
+ Score: 178121.87  Avg. dist.: 295.7 Yards  fairways hit: 71.36%
+
+8. Bubba Watson:-
+ Score: 177958.01  Avg. dist.: 313.3 Yards  fairways hit: 58.18%
+
+9. Dustin Johnson:-
+ Score: 177838.81  Avg. dist.: 314.0 Yards  fairways hit: 57.65%
+
+10. Brendan Steele:-
+ Score: 177734.43  Avg. dist.: 311.0 Yards  fairways hit: 59.55%
+
+11. Keith Mitchell:-
+ Score: 177445.44  Avg. dist.: 313.2 Yards  fairways hit: 57.91%
+
+12. Kevin Chappell:-
+ Score: 177352.74  Avg. dist.: 309.1 Yards  fairways hit: 60.58%
+
+13. Jason Day:-
+ Score: 177287.46  Avg. dist.: 310.3 Yards  fairways hit: 59.72%
+
+14. Justin Thomas:-
+ Score: 176927.32  Avg. dist.: 312.6 Yards  fairways hit: 57.96%
+
+15. Henrik Stenson:-
+ Score: 176714.96  Avg. dist.: 291.2 Yards  fairways hit: 74.11%
+
+16. Hudson Swafford:-
+ Score: 176619.3  Avg. dist.: 302.8 Yards  fairways hit: 64.57%
+
+17. Bronson Burgoon:-
+ Score: 176294.3  Avg. dist.: 303.1 Yards  fairways hit: 64.11%
+
+18. Aaron Wise:-
+ Score: 175762.04  Avg. dist.: 303.5 Yards  fairways hit: 63.43%
+
+19. Byeong Hun An:-
+ Score: 175713.23  Avg. dist.: 308.9 Yards  fairways hit: 59.6%
+
+20. Paul Casey:-
+ Score: 175548.38  Avg. dist.: 304.1 Yards  fairways hit: 62.84%
+
+21. Justin Rose:-
+ Score: 175442.61  Avg. dist.: 302.6 Yards  fairways hit: 63.86%
+
+22. Kevin Streelman:-
+ Score: 175202.28  Avg. dist.: 295.2 Yards  fairways hit: 69.45%
+
+23. Adam Scott:-
+ Score: 175130.62  Avg. dist.: 304.8 Yards  fairways hit: 62.04%
+
+24. Tom Lovelady:-
+ Score: 175115.49  Avg. dist.: 315.9 Yards  fairways hit: 54.73%
+
+25. Corey Conners:-
+ Score: 174949.43  Avg. dist.: 303.3 Yards  fairways hit: 62.99%
+
+26. Emiliano Grillo:-
+ Score: 174844.76  Avg. dist.: 294.3 Yards  fairways hit: 69.91%
+
+27. Jon Rahm:-
+ Score: 174622.34  Avg. dist.: 309.4 Yards  fairways hit: 58.53%
+
+28. Francesco Molinari:-
+ Score: 174579.41  Avg. dist.: 301.6 Yards  fairways hit: 63.97%
+
+29. Bryson DeChambeau:-
+ Score: 174364.69  Avg. dist.: 306.2 Yards  fairways hit: 60.52%
+
+30. Brooks Koepka:-
+ Score: 174298.83  Avg. dist.: 312.3 Yards  fairways hit: 56.44%
+
+31. Sam Ryder:-
+ Score: 174115.17  Avg. dist.: 297.3 Yards  fairways hit: 66.91%
+
+32. J.J. Spaun:-
+ Score: 173985.11  Avg. dist.: 299.0 Yards  fairways hit: 65.49%
+
+33. Rickie Fowler:-
+ Score: 173855.4  Avg. dist.: 301.1 Yards  fairways hit: 63.81%
+
+34. Jason Kokrak:-
+ Score: 173847.51  Avg. dist.: 309.8 Yards  fairways hit: 57.75%
+
+35. Billy Horschel:-
+ Score: 173776.31  Avg. dist.: 296.1 Yards  fairways hit: 67.6%
+
+36. Harold Varner III:-
+ Score: 173734.92  Avg. dist.: 308.2 Yards  fairways hit: 58.73%
+
+37. Luke List:-
+ Score: 173574.31  Avg. dist.: 315.2 Yards  fairways hit: 54.19%
+
+38. Xinjun Zhang:-
+ Score: 173467.44  Avg. dist.: 298.7 Yards  fairways hit: 65.33%
+
+39. Tony Finau:-
+ Score: 173099.92  Avg. dist.: 316.2 Yards  fairways hit: 53.3%
+
+40. Sergio Garcia:-
+ Score: 172754.9  Avg. dist.: 302.0 Yards  fairways hit: 62.35%
+
+41. Patrick Cantlay:-
+ Score: 172612.27  Avg. dist.: 303.1 Yards  fairways hit: 61.46%
+
+42. Patrick Rodgers:-
+ Score: 172150.07  Avg. dist.: 303.4 Yards  fairways hit: 60.92%
+
+43. Russell Henley:-
+ Score: 172106.62  Avg. dist.: 292.1 Yards  fairways hit: 69.54%
+
+44. Ryan Moore:-
+ Score: 171971.49  Avg. dist.: 288.9 Yards  fairways hit: 72.16%
+
+45. Joel Dahmen:-
+ Score: 171699.34  Avg. dist.: 295.9 Yards  fairways hit: 66.15%
+
+46. Ryan Palmer:-
+ Score: 171483.93  Avg. dist.: 305.6 Yards  fairways hit: 58.94%
+
+47. Hideki Matsuyama:-
+ Score: 171467.12  Avg. dist.: 302.4 Yards  fairways hit: 61.14%
+
+48. Rafa Cabrera Bello:-
+ Score: 171404.98  Avg. dist.: 295.0 Yards  fairways hit: 66.63%
+
+49. Hunter Mahan:-
+ Score: 171260.86  Avg. dist.: 296.9 Yards  fairways hit: 65.04%
+
+50. Charles Howell III:-
+ Score: 171259.63  Avg. dist.: 300.6 Yards  fairways hit: 62.28%
+
+51. C.T. Pan:-
+ Score: 171258.09  Avg. dist.: 292.9 Yards  fairways hit: 68.2%
+
+52. Branden Grace:-
+ Score: 171059.21  Avg. dist.: 298.9 Yards  fairways hit: 63.38%
+
+53. Louis Oosthuizen:-
+ Score: 171039.25  Avg. dist.: 300.2 Yards  fairways hit: 62.41%
+
+54. Lucas Glover:-
+ Score: 170982.5  Avg. dist.: 297.2 Yards  fairways hit: 64.6%
+
+55. Martin Laird:-
+ Score: 170943.2  Avg. dist.: 299.0 Yards  fairways hit: 63.22%
+
+56. James Hahn:-
+ Score: 170847.19  Avg. dist.: 298.5 Yards  fairways hit: 63.52%
+
+57. Daniel Berger:-
+ Score: 170828.73  Avg. dist.: 298.0 Yards  fairways hit: 63.88%
+
+58. Xander Schauffele:-
+ Score: 170795.06  Avg. dist.: 304.5 Yards  fairways hit: 59.21%
+
+59. Tyler Duncan:-
+ Score: 170461.8  Avg. dist.: 294.4 Yards  fairways hit: 66.37%
+
+60. Sam Saunders:-
+ Score: 170452.94  Avg. dist.: 302.8 Yards  fairways hit: 60.14%
+
+61. J.T. Poston:-
+ Score: 170324.43  Avg. dist.: 300.7 Yards  fairways hit: 61.53%
+
+62. Sean O'Hair:-
+ Score: 170283.61  Avg. dist.: 302.7 Yards  fairways hit: 60.09%
+
+63. Michael Thompson:-
+ Score: 170256.89  Avg. dist.: 296.4 Yards  fairways hit: 64.66%
+
+64. Matt Jones:-
+ Score: 170169.22  Avg. dist.: 304.2 Yards  fairways hit: 58.98%
+
+65. Brice Garnett:-
+ Score: 169982.81  Avg. dist.: 296.6 Yards  fairways hit: 64.3%
+
+66. Robert Garrigus:-
+ Score: 169918.62  Avg. dist.: 307.9 Yards  fairways hit: 56.37%
+
+67. Chez Reavie:-
+ Score: 169634.24  Avg. dist.: 287.3 Yards  fairways hit: 71.59%
+
+68. Adam Schenk:-
+ Score: 169529.23  Avg. dist.: 305.5 Yards  fairways hit: 57.67%
+
+69. Scott Piercy:-
+ Score: 169151.86  Avg. dist.: 296.1 Yards  fairways hit: 64.05%
+
+70. Shane Lowry:-
+ Score: 169139.21  Avg. dist.: 300.3 Yards  fairways hit: 60.96%
+
+71. Steve Wheatcroft:-
+ Score: 169123.83  Avg. dist.: 288.9 Yards  fairways hit: 69.79%
+
+72. Nick Watney:-
+ Score: 168818.72  Avg. dist.: 307.4 Yards  fairways hit: 55.96%
+
+73. Grayson Murray:-
+ Score: 168782.92  Avg. dist.: 307.3 Yards  fairways hit: 56.0%
+
+74. Austin Cook:-
+ Score: 168731.59  Avg. dist.: 292.5 Yards  fairways hit: 66.52%
+
+75. Blayne Barber:-
+ Score: 168564.71  Avg. dist.: 294.7 Yards  fairways hit: 64.67%
+
+76. Brian Harman:-
+ Score: 168452.34  Avg. dist.: 292.5 Yards  fairways hit: 66.3%
+
+77. Harris English:-
+ Score: 168425.3  Avg. dist.: 302.4 Yards  fairways hit: 58.99%
+
+78. Russell Knox:-
+ Score: 168314.24  Avg. dist.: 291.4 Yards  fairways hit: 67.07%
+
+79. Jordan Spieth:-
+ Score: 168158.05  Avg. dist.: 299.5 Yards  fairways hit: 60.82%
+
+80. Cameron Percy:-
+ Score: 168138.07  Avg. dist.: 295.6 Yards  fairways hit: 63.66%
+
+81. Ryan Armour:-
+ Score: 168132.11  Avg. dist.: 283.9 Yards  fairways hit: 73.32%
+
+82. J.B. Holmes:-
+ Score: 168075.07  Avg. dist.: 305.6 Yards  fairways hit: 56.62%
+
+83. Pat Perez:-
+ Score: 168029.55  Avg. dist.: 293.3 Yards  fairways hit: 65.34%
+
+84. Ian Poulter:-
+ Score: 167829.09  Avg. dist.: 293.1 Yards  fairways hit: 65.34%
+
+85. Beau Hossler:-
+ Score: 167828.59  Avg. dist.: 299.8 Yards  fairways hit: 60.37%
+
+86. Denny McCarthy:-
+ Score: 167661.82  Avg. dist.: 295.4 Yards  fairways hit: 63.45%
+
+87. J.J. Henry:-
+ Score: 167646.25  Avg. dist.: 291.8 Yards  fairways hit: 66.22%
+
+88. Alex Noren:-
+ Score: 167227.38  Avg. dist.: 299.2 Yards  fairways hit: 60.36%
+
+89. Troy Merritt:-
+ Score: 167179.14  Avg. dist.: 295.3 Yards  fairways hit: 63.16%
+
+90. Chesson Hadley:-
+ Score: 166977.59  Avg. dist.: 300.0 Yards  fairways hit: 59.62%
+
+91. Ethan Tracy:-
+ Score: 166879.54  Avg. dist.: 299.0 Yards  fairways hit: 60.25%
+
+92. Graeme McDowell:-
+ Score: 166768.76  Avg. dist.: 293.2 Yards  fairways hit: 64.44%
+
+93. Jason Dufner:-
+ Score: 166761.25  Avg. dist.: 296.8 Yards  fairways hit: 61.74%
+
+94. Satoshi Kodaira:-
+ Score: 166751.74  Avg. dist.: 293.3 Yards  fairways hit: 64.35%
+
+95. Kiradech Aphibarnrat:-
+ Score: 166723.31  Avg. dist.: 294.6 Yards  fairways hit: 63.34%
+
+96. Abraham Ancer:-
+ Score: 166708.12  Avg. dist.: 295.9 Yards  fairways hit: 62.36%
+
+97. Richy Werenski:-
+ Score: 166698.2  Avg. dist.: 292.2 Yards  fairways hit: 65.16%
+
+98. Conrad Shindler:-
+ Score: 166574.98  Avg. dist.: 291.3 Yards  fairways hit: 65.77%
+
+99. Jamie Lovemark:-
+ Score: 166403.12  Avg. dist.: 302.9 Yards  fairways hit: 57.25%
+
+100. Kevin Tway:-
+ Score: 165927.37  Avg. dist.: 310.1 Yards  fairways hit: 52.43%
+
+101. Jhonattan Vegas:-
+ Score: 165820.78  Avg. dist.: 302.9 Yards  fairways hit: 56.85%
+
+102. Kevin Kisner:-
+ Score: 165813.04  Avg. dist.: 290.5 Yards  fairways hit: 65.8%
+
+103. Tiger Woods:-
+ Score: 165662.68  Avg. dist.: 303.5 Yards  fairways hit: 56.35%
+
+104. Tyrrell Hatton:-
+ Score: 165655.21  Avg. dist.: 297.9 Yards  fairways hit: 60.14%
+
+105. Fabián Gómez:-
+ Score: 165385.38  Avg. dist.: 291.1 Yards  fairways hit: 64.99%
+
+106. Matt Atkins:-
+ Score: 165323.51  Avg. dist.: 301.4 Yards  fairways hit: 57.5%
+
+107. Ben Silverman:-
+ Score: 165211.37  Avg. dist.: 290.2 Yards  fairways hit: 65.56%
+
+108. Stephan Jaeger:-
+ Score: 164996.1  Avg. dist.: 299.2 Yards  fairways hit: 58.76%
+
+109. David Lingmerth:-
+ Score: 164531.32  Avg. dist.: 285.4 Yards  fairways hit: 68.93%
+
+110. Andrew Landry:-
+ Score: 164244.64  Avg. dist.: 291.8 Yards  fairways hit: 63.56%
+
+111. Bud Cauley:-
+ Score: 164136.76  Avg. dist.: 295.4 Yards  fairways hit: 60.81%
+
+112. Kelly Kraft:-
+ Score: 163907.38  Avg. dist.: 288.6 Yards  fairways hit: 65.79%
+
+113. Brandt Snedeker:-
+ Score: 163752.38  Avg. dist.: 293.2 Yards  fairways hit: 62.13%
+
+114. Chris Kirk:-
+ Score: 163714.75  Avg. dist.: 290.3 Yards  fairways hit: 64.3%
+
+115. Vaughn Taylor:-
+ Score: 163527.31  Avg. dist.: 286.1 Yards  fairways hit: 67.51%
+
+116. Webb Simpson:-
+ Score: 163486.24  Avg. dist.: 293.7 Yards  fairways hit: 61.56%
+
+117. Kevin Na:-
+ Score: 163390.21  Avg. dist.: 290.1 Yards  fairways hit: 64.2%
+
+118. Marc Leishman:-
+ Score: 163143.35  Avg. dist.: 297.9 Yards  fairways hit: 58.33%
+
+119. Seamus Power:-
+ Score: 163098.82  Avg. dist.: 302.6 Yards  fairways hit: 55.19%
+
+120. Adam Hadwin:-
+ Score: 163095.66  Avg. dist.: 289.3 Yards  fairways hit: 64.59%
+
+121. Scott Brown:-
+ Score: 163035.04  Avg. dist.: 292.6 Yards  fairways hit: 62.03%
+
+122. Stewart Cink:-
+ Score: 163021.48  Avg. dist.: 298.3 Yards  fairways hit: 57.97%
+
+123. Brandon Harkins:-
+ Score: 162976.89  Avg. dist.: 303.1 Yards  fairways hit: 54.79%
+
+124. Brian Gay:-
+ Score: 162963.3  Avg. dist.: 282.7 Yards  fairways hit: 69.91%
+
+125. Alex Cejka:-
+ Score: 162883.33  Avg. dist.: 286.7 Yards  fairways hit: 66.49%
+
+126. Rory Sabbatini:-
+ Score: 162768.86  Avg. dist.: 292.3 Yards  fairways hit: 62.05%
+
+127. Talor Gooch:-
+ Score: 162661.79  Avg. dist.: 298.9 Yards  fairways hit: 57.31%
+
+128. Andrew Putnam:-
+ Score: 162479.96  Avg. dist.: 294.4 Yards  fairways hit: 60.3%
+
+129. Ryan Blaum:-
+ Score: 162446.55  Avg. dist.: 289.0 Yards  fairways hit: 64.31%
+
+130. Ted Potter, Jr:-
+ Score: 162410.96  Avg. dist.: 286.2 Yards  fairways hit: 66.51%
+
+131. Nate Lashley:-
+ Score: 162373.04  Avg. dist.: 293.9 Yards  fairways hit: 60.58%
+
+132. Zach Johnson:-
+ Score: 162352.13  Avg. dist.: 289.9 Yards  fairways hit: 63.54%
+
+133. Shawn Stefani:-
+ Score: 162199.4  Avg. dist.: 299.6 Yards  fairways hit: 56.52%
+
+134. Mackenzie Hughes:-
+ Score: 162151.49  Avg. dist.: 295.0 Yards  fairways hit: 59.63%
+
+135. Ben Martin:-
+ Score: 162032.72  Avg. dist.: 289.6 Yards  fairways hit: 63.52%
+
+136. Cody Gribble:-
+ Score: 161972.82  Avg. dist.: 301.0 Yards  fairways hit: 55.45%
+
+137. Lanto Griffin:-
+ Score: 161918.34  Avg. dist.: 302.4 Yards  fairways hit: 54.52%
+
+138. Tom Hoge:-
+ Score: 161894.08  Avg. dist.: 291.0 Yards  fairways hit: 62.35%
+
+139. Anirban Lahiri:-
+ Score: 161833.77  Avg. dist.: 293.8 Yards  fairways hit: 60.25%
+
+140. Charley Hoffman:-
+ Score: 161827.37  Avg. dist.: 298.8 Yards  fairways hit: 56.79%
+
+141. Danny Lee:-
+ Score: 161814.09  Avg. dist.: 290.4 Yards  fairways hit: 62.74%
+
+142. Nicholas Lindheim:-
+ Score: 161799.22  Avg. dist.: 293.5 Yards  fairways hit: 60.44%
+
+143. Nick Taylor:-
+ Score: 161692.91  Avg. dist.: 292.7 Yards  fairways hit: 60.94%
+
+144. David Hearn:-
+ Score: 161465.61  Avg. dist.: 285.1 Yards  fairways hit: 66.63%
+
+145. Jonas Blixt:-
+ Score: 161226.47  Avg. dist.: 293.1 Yards  fairways hit: 60.3%
+
+146. Rod Pampling:-
+ Score: 161074.7  Avg. dist.: 288.4 Yards  fairways hit: 63.69%
+
+147. Scott Stallings:-
+ Score: 160858.63  Avg. dist.: 299.2 Yards  fairways hit: 55.85%
+
+148. Brett Stegmaier:-
+ Score: 160823.83  Avg. dist.: 295.4 Yards  fairways hit: 58.38%
+
+149. Padraig Harrington:-
+ Score: 160733.48  Avg. dist.: 300.1 Yards  fairways hit: 55.18%
+
+150. Jim Furyk:-
+ Score: 160589.4  Avg. dist.: 280.5 Yards  fairways hit: 69.77%
+
+151. Chris Stroud:-
+ Score: 160585.73  Avg. dist.: 289.8 Yards  fairways hit: 62.24%
+
+152. Chad Campbell:-
+ Score: 160479.75  Avg. dist.: 286.5 Yards  fairways hit: 64.7%
+
+153. Cameron Smith:-
+ Score: 160353.66  Avg. dist.: 298.1 Yards  fairways hit: 56.22%
+
+154. Martin Flores:-
+ Score: 160260.86  Avg. dist.: 300.0 Yards  fairways hit: 54.92%
+
+155. Jonathan Randolph:-
+ Score: 160120.81  Avg. dist.: 289.4 Yards  fairways hit: 62.18%
+
+156. Matt Kuchar:-
+ Score: 160119.68  Avg. dist.: 288.2 Yards  fairways hit: 63.09%
+
+157. John Huh:-
+ Score: 159981.77  Avg. dist.: 287.1 Yards  fairways hit: 63.83%
+
+158. Geoff Ogilvy:-
+ Score: 159839.93  Avg. dist.: 287.6 Yards  fairways hit: 63.33%
+
+159. Charl Schwartzel:-
+ Score: 159706.41  Avg. dist.: 299.5 Yards  fairways hit: 54.86%
+
+160. Johnson Wagner:-
+ Score: 159530.17  Avg. dist.: 286.1 Yards  fairways hit: 64.25%
+
+161. Patton Kizzire:-
+ Score: 159376.89  Avg. dist.: 299.1 Yards  fairways hit: 54.89%
+
+162. Brian Stuard:-
+ Score: 159367.23  Avg. dist.: 278.1 Yards  fairways hit: 70.81%
+
+163. Bill Haas:-
+ Score: 158846.39  Avg. dist.: 296.3 Yards  fairways hit: 56.35%
+
+164. Patrick Reed:-
+ Score: 158801.39  Avg. dist.: 299.5 Yards  fairways hit: 54.24%
+
+165. Ben Crane:-
+ Score: 158570.61  Avg. dist.: 281.1 Yards  fairways hit: 67.52%
+
+166. Dominic Bozzelli:-
+ Score: 158566.85  Avg. dist.: 297.0 Yards  fairways hit: 55.69%
+
+167. Roberto Díaz:-
+ Score: 158414.85  Avg. dist.: 286.3 Yards  fairways hit: 63.2%
+
+168. Si Woo Kim:-
+ Score: 158231.03  Avg. dist.: 290.5 Yards  fairways hit: 59.92%
+
+169. Ollie Schniederjans:-
+ Score: 158035.02  Avg. dist.: 301.6 Yards  fairways hit: 52.42%
+
+170. Martin Piller:-
+ Score: 157963.02  Avg. dist.: 292.2 Yards  fairways hit: 58.51%
+
+171. Jonathan Byrd:-
+ Score: 157597.93  Avg. dist.: 291.7 Yards  fairways hit: 58.59%
+
+172. Peter Uihlein:-
+ Score: 157465.38  Avg. dist.: 300.7 Yards  fairways hit: 52.59%
+
+173. Kyle Thompson:-
+ Score: 157186.02  Avg. dist.: 285.3 Yards  fairways hit: 62.99%
+
+174. Retief Goosen:-
+ Score: 157152.77  Avg. dist.: 296.2 Yards  fairways hit: 55.22%
+
+175. William McGirt:-
+ Score: 157049.63  Avg. dist.: 289.3 Yards  fairways hit: 59.89%
+
+176. Sung Kang:-
+ Score: 156367.25  Avg. dist.: 293.1 Yards  fairways hit: 56.72%
+
+177. Phil Mickelson:-
+ Score: 155817.76  Avg. dist.: 299.6 Yards  fairways hit: 52.16%
+
+178. Matt Every:-
+ Score: 155693.74  Avg. dist.: 294.2 Yards  fairways hit: 55.5%
+
+179. Whee Kim:-
+ Score: 155228.02  Avg. dist.: 285.7 Yards  fairways hit: 61.13%
+
+180. Jimmy Walker:-
+ Score: 155016.7  Avg. dist.: 298.1 Yards  fairways hit: 52.54%
+
+181. Peter Malnati:-
+ Score: 154509.41  Avg. dist.: 290.9 Yards  fairways hit: 56.86%
+
+182. Tyrone Van Aswegen:-
+ Score: 154114.51  Avg. dist.: 290.3 Yards  fairways hit: 56.98%
+
+183. Zecheng Dou:-
+ Score: 152542.68  Avg. dist.: 291.9 Yards  fairways hit: 54.76%
+
+184. Robert Streb:-
+ Score: 152271.57  Avg. dist.: 292.6 Yards  fairways hit: 54.11%
+
+185. Aaron Baddeley:-
+ Score: 152134.47  Avg. dist.: 295.5 Yards  fairways hit: 52.18%
+
+186. Zac Blair:-
+ Score: 151359.48  Avg. dist.: 279.5 Yards  fairways hit: 62.76%
+
+187. Billy Hurley III:-
+ Score: 151221.88  Avg. dist.: 284.0 Yards  fairways hit: 59.24%
+
+188. Michael Kim:-
+ Score: 150436.95  Avg. dist.: 289.5 Yards  fairways hit: 54.82%
+
+189. D.A. Points:-
+ Score: 149783.82  Avg. dist.: 280.8 Yards  fairways hit: 60.47%
+
+190. Andrew Yun:-
+ Score: 149716.16  Avg. dist.: 290.6 Yards  fairways hit: 53.58%
+
+191. Greg Chalmers:-
+ Score: 149674.08  Avg. dist.: 282.8 Yards  fairways hit: 58.9%
+
+192. Rob Oppenheim:-
+ Score: 148460.71  Avg. dist.: 285.2 Yards  fairways hit: 56.26%
+
+193. Daniel Summerhays:-
+ Score: 148085.33  Avg. dist.: 287.1 Yards  fairways hit: 54.69%
+
+194. Derek Fathauer:-
+ Score: 147936.56  Avg. dist.: 289.1 Yards  fairways hit: 53.27%
+
+195. Cameron Tringale:-
+ Score: 146325.38  Avg. dist.: 289.3 Yards  fairways hit: 51.99%
+
+196. Wesley Bryan:-
+ Score: 143022.9  Avg. dist.: 280.4 Yards  fairways hit: 55.41%
+
+197. Ricky Barnes:-
+ Score: 140445.61  Avg. dist.: 290.6 Yards  fairways hit: 47.15%
+
+198. Camilo Villegas:-
+ Score: 137450.67  Avg. dist.: 281.5 Yards  fairways hit: 50.48%
+
+199. Smylie Kaufman:-
+ Score: 135886.3  Avg. dist.: 297.1 Yards  fairways hit: 40.85%
